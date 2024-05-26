@@ -66,4 +66,4 @@ Copy code
 - **Contributing**: Information on how to contribute to the project.
 - **License**: Licensing information.
 
-Copy and paste this content into your `README.md` file on GitHub. Make sure to update the repository URL a
+Copy and paste this content into your `README.md` file on GitHub. Make sure to update the repository URL and any paths or filenames if they differ from those mentioned.
