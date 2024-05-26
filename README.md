@@ -59,7 +59,6 @@ Copy code
 ### Explanation:
 
 - **Introduction**: Brief description of the project.
-- **Project Structure**: Overview of the repository structure.
 - **Installation**: Steps to clone the repository and set up the hardware and software.
 - **Usage**: Instructions for programming and running the system.
 - **Files**: Description of the key files in the repository.
