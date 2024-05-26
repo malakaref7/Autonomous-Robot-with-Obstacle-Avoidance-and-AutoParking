@@ -17,9 +17,6 @@ This repository contains the code, diagrams, and documentation for an autonomous
 The Autonomous Obstacle Avoidance and Auto Parking Car project aims to create a car that can navigate around obstacles and park itself without human intervention. The project combines hardware components, embedded systems, and software algorithms to achieve autonomous navigation and parking.
 
 
-vbnet
-Copy code
-
 ## Installation
 
 To get started with the project, follow these steps:
