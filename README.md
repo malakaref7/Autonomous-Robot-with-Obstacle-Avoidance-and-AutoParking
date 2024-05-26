@@ -53,8 +53,6 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-markdown
-Copy code
 
 ### Explanation:
 
@@ -65,4 +63,3 @@ Copy code
 - **Contributing**: Information on how to contribute to the project.
 - **License**: Licensing information.
 
-Copy and paste this content into your `README.md` file on GitHub. Make sure to update the repository URL and any paths or filenames if they differ from those mentioned.
