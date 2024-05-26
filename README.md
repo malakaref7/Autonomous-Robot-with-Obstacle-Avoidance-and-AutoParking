@@ -6,7 +6,6 @@ This repository contains the code, diagrams, and documentation for an autonomous
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Project Structure](#project-structure)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Files](#files)
@@ -17,20 +16,6 @@ This repository contains the code, diagrams, and documentation for an autonomous
 
 The Autonomous Obstacle Avoidance and Auto Parking Car project aims to create a car that can navigate around obstacles and park itself without human intervention. The project combines hardware components, embedded systems, and software algorithms to achieve autonomous navigation and parking.
 
-## Project Structure
-
-The repository is organized as follows:
-
-Autonomous-Obstacle-Avoidance-and-Auto-Parking-Car/
-├── Cost Analysis.xlsx
-├── Diagram.jpg
-├── Embedded presentation.pptx
-├── Poster.png
-├── Presentation.pdf
-├── README.md
-├── code.ino
-├── flowchart.jpg
-└── flowchart_final.drawio
 
 vbnet
 Copy code
